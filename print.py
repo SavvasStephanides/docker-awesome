@@ -4,4 +4,4 @@ text = open("ascii.txt", "r").read()
 
 for line in text.split("\n"):
     print(line)
-    time.sleep(0.5)
+    time.sleep(0.7)
